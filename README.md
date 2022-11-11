@@ -1,0 +1,2 @@
+# NV2101
+Some ROM For Baidu NV2101
